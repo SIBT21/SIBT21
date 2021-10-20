@@ -1,4 +1,4 @@
-name: zabtechSolutionsRDP
+name: 21RDP
 
 on: workflow_dispatch
 
